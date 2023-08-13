@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-CS224N 2020-2021: Homework 3
-run.py: Run the dependency parser.
-Sahil Chopra <schopra8@stanford.edu>
-Haoshen Hong <haoshen@stanford.edu>
-"""
+
 from datetime import datetime
 import os
 import pickle
